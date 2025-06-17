@@ -7,6 +7,7 @@
     - revising Pytorch!
   - 🌱 My goal this year is to build up a few projects and get a good theoretical handle on AI :)
   - 💡 I'm interested in AI/ML, and seeing how I can incorporate my hobbies into my personal projects!
+  - 🎲 In my free time, I love to play video games, learn Japanese and draw.
 
 📂 Projects
 - Here are a few things I'm working on or planning:
@@ -21,7 +22,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karolina-a-kowalska/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:github+karolinakowalska063@gmail.com) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=karikowska&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=karikowska&theme=merko&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=karikowska&theme=merko&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=karikowska&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
