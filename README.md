@@ -7,7 +7,7 @@
     - revising Pytorch!
   - 🌱 My goal this year is to build up a few projects and get a good theoretical handle on AI :)
   - 💡 I'm interested in AI/ML, and seeing how I can incorporate my hobbies into my personal projects!
-  - 🎲 In my free time, I love to play video games, learn Japanese and draw.
+  - 🎲 In my free time, I love to play video games, collect figures, learn Japanese and draw.
 
 📂 Projects
 - Here are a few things I'm working on or planning:
