@@ -20,6 +20,7 @@
 
 ## 🌐 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karolina-a-kowalska/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:github+karolinakowalska063@gmail.com) 
+
 You can also find my personal website here, where I keep a blog + my industry experience: https://karikowska.github.io/
 
 # 📊 GitHub Stats:
