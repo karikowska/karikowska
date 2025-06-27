@@ -14,7 +14,7 @@
   - 🛒 [Velu - Agentic Price Scraper for Figure Collectors (Python/BeautifulSoup/Langchain/SentenceTransformers)](#)
     - An agentic price scraper that uses your wishlist to find you figure listings under budget from a selection of online stores.
   - 🎼 [Vocaloid Audio Classifier (Python/Sklearn/Pandas/Numpy)](#)
-    - A 93% accurate audio classification model that classifies input songs between Vocaloid and non-Vocaloid. Currently working on deploying the model publicly!
+    - A 93% accurate audio classification model that classifies input songs between Vocaloid and non-Vocaloid. You can try it yourself here: https://vocaloid-classifier.streamlit.app/
   - 🤖 [Neural Network from Scratch (Python/Numpy)](#)
     - As I study up the fundamentals, I plan to code up a small neural network to test my understanding :)
 
