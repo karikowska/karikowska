@@ -15,8 +15,10 @@
     - An agentic price scraper that uses your wishlist to find you figure listings under budget from a selection of online stores.
   - 🎼 [Vocaloid Audio Classifier (Python/Sklearn/Pandas/Numpy)](#)
     - A 93% accurate audio classification model that classifies input songs between Vocaloid and non-Vocaloid. You can try it yourself here: https://vocaloid-classifier.streamlit.app/
-  - 🤖 [Neural Network from Scratch (Python/Numpy)](#)
-    - As I study up the fundamentals, I plan to code up a small neural network to test my understanding :)
+  - 🤖 [Karo's Steam Dashboard (Python/SteamAPI)](#)
+    - A Steam dashboard that helps you choose a video game to play when your backlog is way too big! Neat data analysis and charts will be added in the future.
+  - 🛠️ [Smol AutoML (???)](#)
+    - Planning to implement my own version of an end-to-end AutoML system :)
 
 ## 🌐 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karolina-a-kowalska/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:github+karolinakowalska063@gmail.com) 
